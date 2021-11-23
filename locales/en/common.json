@@ -1,0 +1,3 @@
+{
+  "budgetExample": "Budget: {{budget}}, Type: {{budgetType}}"
+}
